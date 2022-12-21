@@ -2,10 +2,10 @@
   "domain": "sunnybeam",
   "name": "SMA Sunny Beam",
   "version": "0.1.2",
-  "documentation": "https://github.com/dannerph/homeassistant-sunnybeam",
-  "requirements": ["sunnybeamtool>=0.1.0"],
+  "documentation": "https://github.com/petbos157/homeassistant-sunnybeam",
+  "requirements": ["git+https://github.com/petbos157/SunnyBeamToolPython.git"],
   "dependencies": [],
   "codeowners": [
-    "@dannerph"
+    "@petbos157"
   ]
 }
