@@ -3,7 +3,7 @@
   "name": "SMA Sunny Beam",
   "version": "0.1.2",
   "documentation": "https://github.com/petbos157/homeassistant-sunnybeam",
-  "requirements": ["git+https://github.com/petbos157/SunnyBeamToolPython.git"],
+  "requirements": ["sunnybeamtool2>=0.1.0"],
   "dependencies": [],
   "codeowners": [
     "@petbos157"
